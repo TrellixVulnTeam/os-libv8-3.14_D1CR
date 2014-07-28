@@ -1,3 +1,9 @@
+libv8-3.14 (3.14.5.8-8pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- Nico <nico@pexip.com>  Mon, 28 Jul 2014 16:39:43 +0000
+
 libv8-3.14 (3.14.5.8-8) unstable; urgency=medium
 
   * Add 0004_hurd.patch, add Architecture: hurd-i386.

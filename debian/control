@@ -1,7 +1,8 @@
 Source: libv8-3.14
 Priority: optional
-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
-Uploaders: Jérémy Lal <kapouer@melix.org>,
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: Jérémy Lal <kapouer@melix.org>,
  Jonas Smedegaard <dr@jones.dk>
 Build-Depends: cdbs,
  devscripts,
@@ -13,6 +14,7 @@ Section: libs
 Homepage: http://code.google.com/p/v8/
 Vcs-Browser: http://anonscm.debian.org/git/collab-maint/libv8.git
 Vcs-Git: git://anonscm.debian.org/collab-maint/libv8.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ jessie
 
 Package: libv8-dev
 Section: libdevel
